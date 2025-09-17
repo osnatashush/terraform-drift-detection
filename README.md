@@ -1,5 +1,3 @@
-![image info](logo.jpeg)
-
 # github-actions-terraforn-drift-detection
 
 This repository provides a reusable GitHub Action for Terraform drift detection. It automatically checks for configuration drift in your Terraform-managed infrastructure and notifies your team via Email and GitHub Issues.
